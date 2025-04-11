@@ -20,3 +20,8 @@ function newFeatureAdd() {
   console.log("This is a new featcls");
   console.log("This is a new featcls A");
 }
+
+function newFeatureAddB() {
+  console.log("This is a new featcls");
+  console.log("This is a new featcls B");
+}
